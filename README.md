@@ -99,7 +99,7 @@ jupyter notebook
 - Incorporar sazonalidade e clima no modelo;
 - Criar API para consumo externo do modelo;
 - Implementar pipeline de produção com MLflow e DVC.
-
+  
 
 ##  Autor
 
