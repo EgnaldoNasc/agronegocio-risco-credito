@@ -16,7 +16,7 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning para pr
 
 ##  Tecnologias Utilizadas
 
-- **Python** 3.10+
+- **Python** 3.13.3
 - **Pandas**, **NumPy**
 - **Scikit-learn**, **XGBoost**
 - **Matplotlib**, **Seaborn**
