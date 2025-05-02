@@ -93,19 +93,19 @@ jupyter notebook
 
 ---
 
-##  Próximos Passos
+##  Alterações para um cenário real
 
 - Conectar com bases públicas (IBGE, CONAB) para testes em dados reais;
 - Incorporar sazonalidade e clima no modelo;
 - Criar API para consumo externo do modelo;
-- Melhorar pipeline de produção com MLflow e DVC.
+- Implementar pipeline de produção com MLflow e DVC.
 
 
 ##  Autor
 
-Desenvolvido por [Seu Nome] — Cientista de Dados com experiência em modelagem de risco, análise preditiva e soluções para o agronegócio.  
-📧 [seuemail@email.com]  
-🔗 [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
+Desenvolvido por **Egnaldo Nascimento**  — Cientista de Dados com experiência em desenvolvimento do modelos de machine learning no contexto bancário
+egnaldonsjunior@outlook.com
+
 
 
 
