@@ -22,8 +22,7 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning para pr
 - **Matplotlib**, **Seaborn**
 - **SHAP** (para interpretabilidade)
 - **Jupyter Notebook**
-- **Git** / **GitHub** (versão e colaboração)
-- **Streamlit** (dashboard interativo - opcional)
+- **GitHub**
 
 
 ##  Dados Utilizados
